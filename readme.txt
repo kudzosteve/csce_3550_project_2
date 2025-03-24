@@ -17,6 +17,7 @@ Ensure your system has the following installed:
         - main.py               # the main program
         - requirements.txt      # the required dependencies
         - venv                  # virtual environment
+        - Screenshot_of_server_running_and_gradebot_executed
 
 2. Setup virtual environment and install required dependencies
     a. Make sure pip is installed or install with:
